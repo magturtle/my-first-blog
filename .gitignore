@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+myvenv
+#vitual environment
+db.sqlite3
+#database
+/static
+#static document
+.DS_Store
